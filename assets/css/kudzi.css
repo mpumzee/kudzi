@@ -1,0 +1,64 @@
+.logoo{
+    width: 100%;
+    height: 100%;    
+}
+
+.btn{
+    background: #DF3D45;
+}
+
+#scrollUp {
+    background: #DF3D45;
+}
+
+.slider-area .hero__caption h1 {
+    color: #DF3D45;
+}
+
+h2{
+    color: #DF3D45;
+}
+
+.slider-area .hero__caption .stock-text h2:nth-child(2) {
+    color: #DF3D45;
+}
+
+.header-area .header-top .header-info-right .header-social li a:hover {
+    color: #DF3D45;
+}
+
+.single-team .team-caption span {
+    color: #DF3D45;
+}
+
+.main-header .main-menu ul li:hover > a {
+    color: #DF3D45;
+}
+
+.main-header .main-menu ul ul.submenu {
+    border-top: 5px solid #DF3D45;;
+}
+
+.services-area1 .single-service-cap .service-cap h4 a:hover {
+    color: #DF3D45;
+}
+
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+  }
+
+
+.section-padding30 {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}

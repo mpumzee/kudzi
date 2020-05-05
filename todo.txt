@@ -1,0 +1,10 @@
+1. crispy logo
+2. carousel on hero
+3. carousel on services
+4. Image overlays on services
+5. About us text and Image
+6.Correct since date on About
+7. overlay on map
+8. Kudzi photo huge
+9. Online payments in USD
+10. Inventory management
